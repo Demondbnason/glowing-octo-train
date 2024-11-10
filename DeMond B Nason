@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demond - Actor's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Demond</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Landing Section -->
+    <section class="landing">
+        <div class="overlay">
+            <h2>Art is Acting</h2>
+            <p>Welcome to the colorful world of Demond’s acting journey</p>
+            <button>Explore My Work</button>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog" class="blog">
+        <h2>Latest Blog Posts</h2>
+        <div class="blog-post">
+            <h3>Blog Post Title 1</h3>
+            <p>Exploring the vibrant world of acting and storytelling...</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="blog-post">
+            <h3>Blog Post Title 2</h3>
+            <p>Behind the scenes of my latest project...</p>
+            <a href="#">Read More</a>
+        </div>
+    </section>
+
+</body>
+</html>
